@@ -10,4 +10,4 @@ Mii Kart will (hopefully) be using <a href="https://mii.nxw.pw">datkat21's Mii E
 ## Can I play Mii Kart at its current state?
 Luckily you can! The only thing I gotta say is that it's still really early in development, so expect minor and major bugs ranging from input, performace, and physics.
 
-Oh! And the link to the game is quite literally <a href="https://miikart.github.io">miikart.github.io</a>
+Oh! And the link to the game is quite literally <a href="https://njayv.github.io/MiiKart">njayv.github.io/MiiKart</a>
